@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/skajahar62/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/skajahar62/leetcode-solutions/tree/master/0344-reverse-string) |
+| [1021-remove-outermost-parentheses](https://github.com/skajahar62/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 ## Greedy
 |  |
 | ------- |
@@ -58,4 +59,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/skajahar62/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
+## Stack
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/skajahar62/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
