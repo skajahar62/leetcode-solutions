@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/skajahar62/leetcode-solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1480-running-sum-of-1d-array](https://github.com/skajahar62/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/skajahar62/leetcode-solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1590-make-sum-divisible-by-p](https://github.com/skajahar62/leetcode-solutions/tree/master/1590-make-sum-divisible-by-p) |
 | [1991-find-the-middle-index-in-array](https://github.com/skajahar62/leetcode-solutions/tree/master/1991-find-the-middle-index-in-array) |
 ## Hash Table
 |  |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/skajahar62/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/skajahar62/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/skajahar62/leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1590-make-sum-divisible-by-p](https://github.com/skajahar62/leetcode-solutions/tree/master/1590-make-sum-divisible-by-p) |
 ## Sliding Window
 |  |
 | ------- |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/skajahar62/leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/skajahar62/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/skajahar62/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
+| [1590-make-sum-divisible-by-p](https://github.com/skajahar62/leetcode-solutions/tree/master/1590-make-sum-divisible-by-p) |
 | [1991-find-the-middle-index-in-array](https://github.com/skajahar62/leetcode-solutions/tree/master/1991-find-the-middle-index-in-array) |
 ## Stack
 |  |
