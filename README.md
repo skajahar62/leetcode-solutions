@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/skajahar62/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0088-merge-sorted-array](https://github.com/skajahar62/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/skajahar62/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0219-contains-duplicate-ii](https://github.com/skajahar62/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/skajahar62/leetcode-solutions/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/skajahar62/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0523-continuous-subarray-sum](https://github.com/skajahar62/leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/skajahar62/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/skajahar62/leetcode-solutions/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/skajahar62/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0523-continuous-subarray-sum](https://github.com/skajahar62/leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
@@ -41,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/skajahar62/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/skajahar62/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/skajahar62/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/skajahar62/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
