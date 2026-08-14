@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/skajahar62/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/skajahar62/leetcode-solutions/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
 | [1768-merge-strings-alternately](https://github.com/skajahar62/leetcode-solutions/tree/master/1768-merge-strings-alternately) |
+| [2938-separate-black-and-white-balls](https://github.com/skajahar62/leetcode-solutions/tree/master/2938-separate-black-and-white-balls) |
 ## String
 |  |
 | ------- |
@@ -85,10 +86,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/skajahar62/leetcode-solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/skajahar62/leetcode-solutions/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
 | [1768-merge-strings-alternately](https://github.com/skajahar62/leetcode-solutions/tree/master/1768-merge-strings-alternately) |
+| [2938-separate-black-and-white-balls](https://github.com/skajahar62/leetcode-solutions/tree/master/2938-separate-black-and-white-balls) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/skajahar62/leetcode-solutions/tree/master/0011-container-with-most-water) |
+| [2938-separate-black-and-white-balls](https://github.com/skajahar62/leetcode-solutions/tree/master/2938-separate-black-and-white-balls) |
 ## Binary Search
 |  |
 | ------- |
