@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/skajahar62/leetcode-solutions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1991-find-the-middle-index-in-array](https://github.com/skajahar62/leetcode-solutions/tree/master/1991-find-the-middle-index-in-array) |
 | [2841-maximum-sum-of-almost-unique-subarray](https://github.com/skajahar62/leetcode-solutions/tree/master/2841-maximum-sum-of-almost-unique-subarray) |
+| [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/skajahar62/leetcode-solutions/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 ## Hash Table
 |  |
 | ------- |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/skajahar62/leetcode-solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/skajahar62/leetcode-solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [2841-maximum-sum-of-almost-unique-subarray](https://github.com/skajahar62/leetcode-solutions/tree/master/2841-maximum-sum-of-almost-unique-subarray) |
+| [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/skajahar62/leetcode-solutions/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 ## Two Pointers
 |  |
 | ------- |
