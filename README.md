@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/skajahar62/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1480-running-sum-of-1d-array](https://github.com/skajahar62/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/skajahar62/leetcode-solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1512-number-of-good-pairs](https://github.com/skajahar62/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [1590-make-sum-divisible-by-p](https://github.com/skajahar62/leetcode-solutions/tree/master/1590-make-sum-divisible-by-p) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/skajahar62/leetcode-solutions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1991-find-the-middle-index-in-array](https://github.com/skajahar62/leetcode-solutions/tree/master/1991-find-the-middle-index-in-array) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/skajahar62/leetcode-solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1248-count-number-of-nice-subarrays](https://github.com/skajahar62/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/skajahar62/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1512-number-of-good-pairs](https://github.com/skajahar62/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [1590-make-sum-divisible-by-p](https://github.com/skajahar62/leetcode-solutions/tree/master/1590-make-sum-divisible-by-p) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/skajahar62/leetcode-solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2841-maximum-sum-of-almost-unique-subarray](https://github.com/skajahar62/leetcode-solutions/tree/master/2841-maximum-sum-of-almost-unique-subarray) |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/skajahar62/leetcode-solutions/tree/master/0268-missing-number) |
 | [0523-continuous-subarray-sum](https://github.com/skajahar62/leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/skajahar62/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
+| [1512-number-of-good-pairs](https://github.com/skajahar62/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -192,4 +195,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/skajahar62/leetcode-solutions/tree/master/0054-spiral-matrix) |
+## Counting
+|  |
+| ------- |
+| [1512-number-of-good-pairs](https://github.com/skajahar62/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 <!---LeetCode Topics End-->
