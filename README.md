@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/skajahar62/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/skajahar62/leetcode-solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1512-number-of-good-pairs](https://github.com/skajahar62/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
+| [1550-three-consecutive-odds](https://github.com/skajahar62/leetcode-solutions/tree/master/1550-three-consecutive-odds) |
 | [1590-make-sum-divisible-by-p](https://github.com/skajahar62/leetcode-solutions/tree/master/1590-make-sum-divisible-by-p) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/skajahar62/leetcode-solutions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1991-find-the-middle-index-in-array](https://github.com/skajahar62/leetcode-solutions/tree/master/1991-find-the-middle-index-in-array) |
