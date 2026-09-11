@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/skajahar62/leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/skajahar62/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/skajahar62/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
+| [0905-sort-array-by-parity](https://github.com/skajahar62/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [0918-maximum-sum-circular-subarray](https://github.com/skajahar62/leetcode-solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/skajahar62/leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/skajahar62/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/skajahar62/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/skajahar62/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/skajahar62/leetcode-solutions/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0905-sort-array-by-parity](https://github.com/skajahar62/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/skajahar62/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/skajahar62/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/skajahar62/leetcode-solutions/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/skajahar62/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/skajahar62/leetcode-solutions/tree/master/0268-missing-number) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/skajahar62/leetcode-solutions/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0905-sort-array-by-parity](https://github.com/skajahar62/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/skajahar62/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/skajahar62/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/skajahar62/leetcode-solutions/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
