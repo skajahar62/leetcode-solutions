@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/skajahar62/leetcode-solutions/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/skajahar62/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/skajahar62/leetcode-solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0835-image-overlap](https://github.com/skajahar62/leetcode-solutions/tree/master/0835-image-overlap) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/skajahar62/leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/skajahar62/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/skajahar62/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/skajahar62/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/skajahar62/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/skajahar62/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0835-image-overlap](https://github.com/skajahar62/leetcode-solutions/tree/master/0835-image-overlap) |
 | [1901-find-a-peak-element-ii](https://github.com/skajahar62/leetcode-solutions/tree/master/1901-find-a-peak-element-ii) |
 ## Simulation
 |  |
