@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/skajahar62/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/skajahar62/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/skajahar62/leetcode-solutions/tree/master/0162-find-peak-element) |
+| [0169-majority-element](https://github.com/skajahar62/leetcode-solutions/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/skajahar62/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/skajahar62/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/skajahar62/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/skajahar62/leetcode-solutions/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/skajahar62/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/skajahar62/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/skajahar62/leetcode-solutions/tree/master/0268-missing-number) |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/skajahar62/leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/skajahar62/leetcode-solutions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/skajahar62/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/skajahar62/leetcode-solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/skajahar62/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
@@ -256,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/skajahar62/leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/skajahar62/leetcode-solutions/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/skajahar62/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0918-maximum-sum-circular-subarray](https://github.com/skajahar62/leetcode-solutions/tree/master/0918-maximum-sum-circular-subarray) |
 ## Queue
@@ -286,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/skajahar62/leetcode-solutions/tree/master/0169-majority-element) |
 | [1512-number-of-good-pairs](https://github.com/skajahar62/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/skajahar62/leetcode-solutions/tree/master/1748-sum-of-unique-elements) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/skajahar62/leetcode-solutions/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
@@ -310,4 +315,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/skajahar62/leetcode-solutions/tree/master/0014-longest-common-prefix) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/skajahar62/leetcode-solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
