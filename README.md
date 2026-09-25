@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/skajahar62/leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
 | [1748-sum-of-unique-elements](https://github.com/skajahar62/leetcode-solutions/tree/master/1748-sum-of-unique-elements) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/skajahar62/leetcode-solutions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/skajahar62/leetcode-solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1901-find-a-peak-element-ii](https://github.com/skajahar62/leetcode-solutions/tree/master/1901-find-a-peak-element-ii) |
 | [1991-find-the-middle-index-in-array](https://github.com/skajahar62/leetcode-solutions/tree/master/1991-find-the-middle-index-in-array) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/skajahar62/leetcode-solutions/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
