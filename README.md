@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2744-find-maximum-number-of-string-pairs](https://github.com/skajahar62/leetcode-solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2841-maximum-sum-of-almost-unique-subarray](https://github.com/skajahar62/leetcode-solutions/tree/master/2841-maximum-sum-of-almost-unique-subarray) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/skajahar62/leetcode-solutions/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
+| [3417-zigzag-grid-traversal-with-skip](https://github.com/skajahar62/leetcode-solutions/tree/master/3417-zigzag-grid-traversal-with-skip) |
 ## Hash Table
 |  |
 | ------- |
@@ -321,11 +322,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/skajahar62/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0835-image-overlap](https://github.com/skajahar62/leetcode-solutions/tree/master/0835-image-overlap) |
 | [1901-find-a-peak-element-ii](https://github.com/skajahar62/leetcode-solutions/tree/master/1901-find-a-peak-element-ii) |
+| [3417-zigzag-grid-traversal-with-skip](https://github.com/skajahar62/leetcode-solutions/tree/master/3417-zigzag-grid-traversal-with-skip) |
 ## Simulation
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/skajahar62/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/skajahar62/leetcode-solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
+| [3417-zigzag-grid-traversal-with-skip](https://github.com/skajahar62/leetcode-solutions/tree/master/3417-zigzag-grid-traversal-with-skip) |
 ## Counting
 |  |
 | ------- |
