@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/skajahar62/leetcode-solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/skajahar62/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/skajahar62/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0621-task-scheduler](https://github.com/skajahar62/leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0643-maximum-average-subarray-i](https://github.com/skajahar62/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/skajahar62/leetcode-solutions/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/skajahar62/leetcode-solutions/tree/master/0724-find-pivot-index) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/skajahar62/leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/skajahar62/leetcode-solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/skajahar62/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0621-task-scheduler](https://github.com/skajahar62/leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0904-fruit-into-baskets](https://github.com/skajahar62/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/skajahar62/leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1002-find-common-characters](https://github.com/skajahar62/leetcode-solutions/tree/master/1002-find-common-characters) |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/skajahar62/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/skajahar62/leetcode-solutions/tree/master/0055-jump-game) |
+| [0621-task-scheduler](https://github.com/skajahar62/leetcode-solutions/tree/master/0621-task-scheduler) |
 | [2938-separate-black-and-white-balls](https://github.com/skajahar62/leetcode-solutions/tree/master/2938-separate-black-and-white-balls) |
 ## Binary Search
 |  |
@@ -228,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/skajahar62/leetcode-solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/skajahar62/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/skajahar62/leetcode-solutions/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0621-task-scheduler](https://github.com/skajahar62/leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0905-sort-array-by-parity](https://github.com/skajahar62/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/skajahar62/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1331-rank-transform-of-an-array](https://github.com/skajahar62/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
@@ -334,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/skajahar62/leetcode-solutions/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/skajahar62/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0621-task-scheduler](https://github.com/skajahar62/leetcode-solutions/tree/master/0621-task-scheduler) |
 | [1512-number-of-good-pairs](https://github.com/skajahar62/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/skajahar62/leetcode-solutions/tree/master/1748-sum-of-unique-elements) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/skajahar62/leetcode-solutions/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
@@ -341,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0621-task-scheduler](https://github.com/skajahar62/leetcode-solutions/tree/master/0621-task-scheduler) |
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/skajahar62/leetcode-solutions/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Ternary Search
 |  |
