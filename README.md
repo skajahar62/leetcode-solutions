@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-find-the-difference-of-two-arrays](https://github.com/skajahar62/leetcode-solutions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/skajahar62/leetcode-solutions/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/skajahar62/leetcode-solutions/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2423-remove-letter-to-equalize-frequency](https://github.com/skajahar62/leetcode-solutions/tree/master/2423-remove-letter-to-equalize-frequency) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/skajahar62/leetcode-solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/skajahar62/leetcode-solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2841-maximum-sum-of-almost-unique-subarray](https://github.com/skajahar62/leetcode-solutions/tree/master/2841-maximum-sum-of-almost-unique-subarray) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/skajahar62/leetcode-solutions/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
 | [1768-merge-strings-alternately](https://github.com/skajahar62/leetcode-solutions/tree/master/1768-merge-strings-alternately) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/skajahar62/leetcode-solutions/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [2423-remove-letter-to-equalize-frequency](https://github.com/skajahar62/leetcode-solutions/tree/master/2423-remove-letter-to-equalize-frequency) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/skajahar62/leetcode-solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2938-separate-black-and-white-balls](https://github.com/skajahar62/leetcode-solutions/tree/master/2938-separate-black-and-white-balls) |
 ## Greedy
@@ -345,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1748-sum-of-unique-elements](https://github.com/skajahar62/leetcode-solutions/tree/master/1748-sum-of-unique-elements) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/skajahar62/leetcode-solutions/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/skajahar62/leetcode-solutions/tree/master/2341-maximum-number-of-pairs-in-array) |
+| [2423-remove-letter-to-equalize-frequency](https://github.com/skajahar62/leetcode-solutions/tree/master/2423-remove-letter-to-equalize-frequency) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
