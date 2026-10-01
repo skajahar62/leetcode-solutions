@@ -278,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/skajahar62/leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/skajahar62/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1512-number-of-good-pairs](https://github.com/skajahar62/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/skajahar62/leetcode-solutions/tree/master/2520-count-the-digits-that-divide-a-number) |
 ## Bit Manipulation
 |  |
 | ------- |
