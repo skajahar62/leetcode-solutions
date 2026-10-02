@@ -282,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/skajahar62/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/skajahar62/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1512-number-of-good-pairs](https://github.com/skajahar62/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
+| [2481-minimum-cuts-to-divide-a-circle](https://github.com/skajahar62/leetcode-solutions/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/skajahar62/leetcode-solutions/tree/master/2520-count-the-digits-that-divide-a-number) |
 ## Bit Manipulation
 |  |
@@ -397,4 +398,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/skajahar62/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/skajahar62/leetcode-solutions/tree/master/0739-daily-temperatures) |
+## Geometry
+|  |
+| ------- |
+| [2481-minimum-cuts-to-divide-a-circle](https://github.com/skajahar62/leetcode-solutions/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 <!---LeetCode Topics End-->
