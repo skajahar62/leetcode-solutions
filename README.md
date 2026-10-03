@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2744-find-maximum-number-of-string-pairs](https://github.com/skajahar62/leetcode-solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2841-maximum-sum-of-almost-unique-subarray](https://github.com/skajahar62/leetcode-solutions/tree/master/2841-maximum-sum-of-almost-unique-subarray) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/skajahar62/leetcode-solutions/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
+| [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/skajahar62/leetcode-solutions/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/skajahar62/leetcode-solutions/tree/master/3417-zigzag-grid-traversal-with-skip) |
 ## Hash Table
 |  |
