@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2841-maximum-sum-of-almost-unique-subarray](https://github.com/skajahar62/leetcode-solutions/tree/master/2841-maximum-sum-of-almost-unique-subarray) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/skajahar62/leetcode-solutions/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/skajahar62/leetcode-solutions/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
+| [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/skajahar62/leetcode-solutions/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/skajahar62/leetcode-solutions/tree/master/3417-zigzag-grid-traversal-with-skip) |
 ## Hash Table
 |  |
@@ -343,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/skajahar62/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/skajahar62/leetcode-solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
+| [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/skajahar62/leetcode-solutions/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/skajahar62/leetcode-solutions/tree/master/3417-zigzag-grid-traversal-with-skip) |
 ## Counting
 |  |
@@ -360,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0621-task-scheduler](https://github.com/skajahar62/leetcode-solutions/tree/master/0621-task-scheduler) |
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/skajahar62/leetcode-solutions/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/skajahar62/leetcode-solutions/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
 ## Ternary Search
 |  |
 | ------- |
