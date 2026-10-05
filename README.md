@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/skajahar62/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/skajahar62/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/skajahar62/leetcode-solutions/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/skajahar62/leetcode-solutions/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/skajahar62/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/skajahar62/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/skajahar62/leetcode-solutions/tree/master/0344-reverse-string) |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/skajahar62/leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/skajahar62/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/skajahar62/leetcode-solutions/tree/master/0050-powx-n) |
+| [0067-add-binary](https://github.com/skajahar62/leetcode-solutions/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/skajahar62/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/skajahar62/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/skajahar62/leetcode-solutions/tree/master/0268-missing-number) |
@@ -289,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/skajahar62/leetcode-solutions/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/skajahar62/leetcode-solutions/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/skajahar62/leetcode-solutions/tree/master/0268-missing-number) |
 ## Dynamic Programming
@@ -343,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/skajahar62/leetcode-solutions/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/skajahar62/leetcode-solutions/tree/master/0067-add-binary) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/skajahar62/leetcode-solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/skajahar62/leetcode-solutions/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/skajahar62/leetcode-solutions/tree/master/3417-zigzag-grid-traversal-with-skip) |
